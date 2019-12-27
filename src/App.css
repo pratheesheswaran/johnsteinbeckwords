@@ -1,4 +1,4 @@
-.App {
+App {
   text-align: center;
 }
 body {
@@ -29,4 +29,32 @@ body {
 }
 #block-1 {
   font-size: 1.7em;
+}
+.row{
+ color: #17b978;
+}
+#rmBlock{
+  font-size: 0.9em;
+  color: white;
+}
+.nmContainer {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .nmContainer {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .nmContainer {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .nmContainer {
+    width: 1170px;
+  }
 }

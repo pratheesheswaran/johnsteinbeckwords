@@ -1,36 +1,99 @@
 [{
     "quote":"“A harmonica is easy to carry. Take it out of your hip pocket, knock it against your palm to shake out the dirt and pocket fuzz and bits of tobacco. Now it’s ready. You can do anything with a harmonica: thin reedy single tone, or chords or melody with rhythm chords. You can mold the music with curved hands, making it wail and cry like bagpipes, making it full and rounds like an organ, making it as sharp and bitter as the reed pipes of the hills. And you can play it and put it back in your pocket. It is always with you, always in your pocket. And as you play, you learn new tricks, to pinch the tone with your lips, and no one teaches you. You feel around—sometimes in the tent door after supper when the women are washing up. Your foot taps gently on the ground. Your foot taps gently on the ground. Your eyebrows rise and fall in rhythm. And if you lose it or break it, why, it’s no great loss. You can buy another for a quarter. ― John Steinbeck, The Grapes of Wrath”",
     "offset":0.1,
-    "speed":9,
+    "speed":1,
     "id":"block-1",
-    "color":"black"
+    "color":"red"
   },
   {
     "quote":"“No man really knows about other human beings. The best he can do is to suppose that they are like himself.”",
+    "offset":0.3,
+    "speed":1.9,
+    "id":"block-2",
+    "color":"#08ffc8"
+  },
+  {
+    "quote":"“There ain't no sin and there ain't no virtue. There's just stuff people do.”",
+    "offset":0.5,
+    "speed":2.9,
+    "id":"block-2",
+    "color":"#f7be16"
+  },
+  {
+    "quote":"“A guy needs somebody―to be near him. A guy goes nuts if he ain't got nobody. Don't make no difference who the guy is, long's he's with you. I tell ya, I tell ya a guy gets too lonely an' he gets sick.”",
+    "offset":0.7,
+    "speed":1.3,
+    "id":"block-2",
+    "color":"#f07b3f"
+  },
+  {
+    "quote":"“It seems to me that if you or I must choose between two courses of thought or action, we should remember our dying and try so to live that our death brings no pleasure to the world.”",
     "offset":1,
-    "speed":7,
+    "speed":1.5,
     "id":"block-2",
-    "color":"green"
+    "color":"#f38181"
   },
   {
-    "quote":"“My imagination will get me a passport to hell one day.”",
-    "offset":1.5,
-    "speed":10,
+    "quote":"“It's so much darker when a light goes out than it would have been if it had never shone.”",
+    "offset":1,
+    "speed":3,
     "id":"block-2",
-    "color":"yellow"
+    "color":"#ffc93c"
   },
   {
-    "quote":"“My imagination will get me a passport to hell one day.”",
+    "quote":"“All great and precious things are lonely.”",
     "offset":1.9,
-    "speed":8,
+    "speed":1.5,
     "id":"block-2",
-    "color":"grey"
+    "color":"#f07b3f"
   },
   {
-    "quote":"asdfasdf",
+    "quote":"“Sometimes a man wants to be stupid if it lets him do a thing his cleverness forbids.”",
     "offset":2,
+    "speed":4.5,
+    "id":"block-2",
+    "color":"#46b7b9"
+  },
+  {
+    "quote":"“A guy needs somebody―to be near him. A guy goes nuts if he ain't got nobody. Don't make no difference who the guy is, long's he's with you. I tell ya, I tell ya a guy gets too lonely an' he gets sick.”",
+    "offset":2.3,
+    "speed":3,
+    "id":"block-2",
+    "color":"#17b978"
+  },
+  {
+    "quote":"“Don't worry about losing. If it is right, it happens - The main thing is not to hurry. Nothing good gets away.”",
+    "offset":2.5,
+    "speed":1.9,
+    "id":"block-2",
+    "color":"#f69d9d"
+  },
+  {
+    "quote":"“You've seen the sun flatten and take strange shapes just before it sinks in the ocean. Do you have to tell yourself every time that it's an illusion caused by atmospheric dust and light distorted by the sea, or do you simply enjoy the beauty of it?”",
+    "offset":2.7,
+    "speed":1.5,
+    "id":"block-2",
+    "color":"#79a8a9"
+  },
+  {
+    "quote":"“Before I knowed it, I was sayin' out loud, 'The hell with it! There ain't no sin and there ain't no virtue. There's just stuff people do. It's all part of the same thing.' . . . . I says, 'What's this call, this sperit?' An' I says, 'It's love. I love people so much I'm fit to bust, sometimes.' . . . . I figgered, 'Why do we got to hang it on God or Jesus? Maybe,' I figgered, 'maybe it's all men an' all women we love; maybe that's the Holy Sperit-the human sperit-the whole shebang. Maybe all men got one big soul ever'body's a part of.' Now I sat there thinkin' it, an' all of a suddent-I knew it. I knew it so deep down that it was true, and I still know it.”",
+    "offset":3,
     "speed":2,
     "id":"block-2",
-    "color":"grey"
+    "color":"#f07b3f"
+  },
+  {
+    "quote":"“A large drop of sun lingered on the horizon and then dripped over and was gone, and the sky was brilliant over the spot where it had gone, and a torn cloud, like a bloody rag, hung over the spot of its going. And dusk crept over the sky from the eastern horizon, and darkness crept over the land from the east.”",
+    "offset":4,
+    "speed":2,
+    "id":"block-2",
+    "color":"#17b978"
+  },
+  {
+    "quote":"“This you may say of man - when theories change and crash, when schools, philosophies, when narrow dark alleys of thought, national, religious, economic, grow and disintegrate, man reaches, stumbles forward, painfully, mistakenly sometimes. Having stepped forward, he may slip back, but only half a step, never the full step back.”",
+    "offset":4.9,
+    "speed":1.5,
+    "id":"block-2",
+    "color":"#ffc93c"
   }
 ]
