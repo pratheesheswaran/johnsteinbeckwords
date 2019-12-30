@@ -4,7 +4,7 @@ function ReaderMode(props) {
 
   return (
       <div>
-          <p onClick={props.toggleReaderMode} style={{ color: "#ffc93c" }} >normal mode</p>
+          <p onClick={props.toggleReaderMode} style={{ color: "#ffc93c" }} className='modes'>normal</p>
           <div className="nmContainer">
                  {props.data.map((quote) => (
        

@@ -43,6 +43,9 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
+.modes, .nmContainer{
+  text-align: left;
+}
 @media (min-width: 768px) {
   .nmContainer {
     width: 750px;

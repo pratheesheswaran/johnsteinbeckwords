@@ -22,7 +22,7 @@ class App extends Component {
         :
           <Parallax ref='parallax' pages={6} >
             <div>
-            <p style={{ color: "#ffc93c" }} onClick={this.toggleReaderMode}>reader mode</p>
+            <p style={{ color: "#ffc93c" }} onClick={this.toggleReaderMode} className='modes'>reader</p>
               <div className='row'>
                 <div className='column'>
                   <div className='one-column'>
